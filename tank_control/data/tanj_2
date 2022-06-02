@@ -1,0 +1,8 @@
+tank controller
+OY	vertical stick	3	SLIDER	Âðàùåíèå âîêðóã îñè Y	0	1.0	0.0
+OX	horisontal stick	3	SLIDER	Âðàùåíèå âîêðóã îñè X	0	1.0	0.0
+set_mode	zel/move	1	BUTTON	Êíîïêà 0	0	0.0	0.0
+prizet_on	lamp on	1	BUTTON	Êíîïêà 4	0	0.0	0.0
+shoot_on	lazer on	1	BUTTON	Êíîïêà 5	0	0.0	0.0
+goodok	beep	1	BUTTON	Êíîïêà 2	0	0.0	0.0
+tower_move	move tower	2	HAT	cooliehat: Ïåðåêëþ÷àòåëü POV	0	1.0	0.0

@@ -1,0 +1,9 @@
+tank controller
+OY	oy	3	SLIDER	Âðàùåíèå âîêðóã îñè Y	0	1.0	0.0
+OX	ox	3	SLIDER	Âðàùåíèå âîêðóã îñè X	0	1.0	0.0
+set_mode	a	1	BUTTON	Êíîïêà 0	0	0.0	0.0
+beep	x	1	BUTTON	Êíîïêà 2	0	0.0	0.0
+tower_speed	b	1	BUTTON	Êíîïêà 1	0	0.0	0.0
+prizet_on	lb	1	BUTTON	Êíîïêà 4	0	0.0	0.0
+shoot_on	rb	1	BUTTON	Êíîïêà 5	0	0.0	0.0
+tower_move	hat	2	HAT	cooliehat: Ïåðåêëþ÷àòåëü POV	0	1.0	0.0

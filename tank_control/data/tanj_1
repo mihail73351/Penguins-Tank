@@ -1,0 +1,4 @@
+tank controller
+OY	sdf	3	SLIDER	Âðàùåíèå âîêðóã îñè Y	0	1.0	0.0
+OX	dsgsd	3	SLIDER	Âðàùåíèå âîêðóã îñè X	0	1.0	0.0
+set_mode	sdf	1	BUTTON	Êíîïêà 0	0	0.0	0.0
